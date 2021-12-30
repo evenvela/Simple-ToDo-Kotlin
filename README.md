@@ -26,6 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![ Alt text](SimpleToDoKotlin.gif) / ! [](SimpleToDoKotlin.gif)
+
 https://github.com/evenvela/Simple-ToDo-Kotlin/blob/master/SimpleToDoKotlin.gif
 
 ## Notes
