@@ -1,4 +1,5 @@
 # Simple-ToDo-Kotlin
-Add ToDo items
-Delete ToDo Items
-Update ToDo Items
+Allows user to:
+1. Add ToDo items
+2. Delete ToDo Items
+3. Update ToDo Items
